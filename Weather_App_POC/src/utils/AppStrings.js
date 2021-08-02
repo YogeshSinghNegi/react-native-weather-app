@@ -1,0 +1,9 @@
+export const HOME = 'Home';
+export const WEATHER = 'Weather';
+export const ENTER_ZIP_CODE = 'Enter Zip Code';
+export const GET_WEATHER = 'Get Weather';
+export const ALERT_HEADER = 'Zip Code Error!';
+export const ALERT_ZIP_EMPTY = 'Zip Code cannot be left blank.';
+export const ALERT_ZIP_NOT_VALID_LENGTH = 'Please enter 6 digit Zip Code to continue.';
+export const REQUEST_API_DATA = 'REQUEST_API_DATA';
+export const RECEIVE_API_DATA = 'RECEIVE_API_DATA';
